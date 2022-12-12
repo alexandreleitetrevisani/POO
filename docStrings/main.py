@@ -1,5 +1,5 @@
 # import uma_linha
-import varias_linhas
+import documentando_funcoes
 # import varias_linhas
 import documentando_funcoes
 
