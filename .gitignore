@@ -3,3 +3,7 @@ user.txt
 venv/
 
 padroes_projeto/Design-patterns.pdf
+
+*.png
+
+banco_projeto/__pycache__/
